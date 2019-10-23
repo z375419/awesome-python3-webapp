@@ -2,3 +2,4 @@ git is a distributed version control system.
 git is free software.
 git is great.
 create branch.
+git is a smart software.
