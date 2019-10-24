@@ -4,3 +4,4 @@ git is great.
 create branch.
 merge conflict.A
 merge dev use no-ff.
+stash dev.
